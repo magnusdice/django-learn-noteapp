@@ -1,0 +1,30 @@
+//TODO//
+Backend Setup
+Django Settings
+JWT Tokens
+Register View
+Conecting Auth Routes
+Custom Models
+CRUD Views
+Fontend Setup
+Frontend Organisation & Axios Setup
+Writing Protected Routes
+Navigation & PAges
+404 PAges
+Generic Form
+Adding form sytles
+login/register form
+home PAges
+note componet
+frontend finishing touches
+database deploy
+deploy config
+choreo Setup
+backend deploy
+frontend deploy
+conet fronted to backed
+
+
+
+
+///DONE///

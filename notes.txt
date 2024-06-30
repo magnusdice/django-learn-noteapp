@@ -1,0 +1,8 @@
+BACKEND FOLDER
+
+How to make backend folder?
+- startproject backend
+- cd backend
+- python manage.py startapp api
+
+What is settings.py
